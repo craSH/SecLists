@@ -19,8 +19,13 @@ From: user@example.com
 Host: localhost
 Host: localhost:8080
 If-Match: "737060cd8c284d8af7ad3082f209582d"
+If-Match: W/"weakmatch"
+If-Match: "im", "not", "dead", "yet"
+If-Match: *
 If-Modified-Since: Sat, 29 Oct 1994 19:43:31 GMT
 If-None-Match: "737060cd8c284d8af7ad3082f209582d"
+If-None-Match: W/"weakmatch"
+If-None-Match: *
 If-Range: "737060cd8c284d8af7ad3082f209582d"
 If-Unmodified-Since: Sat, 29 Oct 1994 19:43:31 GMT
 Max-Forwards: 10
