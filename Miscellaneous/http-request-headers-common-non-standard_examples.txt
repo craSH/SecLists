@@ -5,7 +5,7 @@ X-Att-Deviceid: GT-P7320/P7320XXLPG
 X-CSRFToken: DECAFC0FFEEBAD
 X-Correlation-ID: f058ebd6-02f7-4d3f-942e-904344e8cde5
 X-Csrf-Token: DECAFC0FFEEBAD
-X-Csrf-Token: DECAFC0FFEEBAD
+X-XSRF-TOKEN: DECAFC0FFEEBAD
 X-Do-Not-Track: 1
 X-Forwarded-For: 127.0.0.1
 X-Forwarded-For: client1, proxy1, proxy2

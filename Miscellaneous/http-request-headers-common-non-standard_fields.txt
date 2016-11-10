@@ -5,6 +5,7 @@ X-ATT-DeviceId
 X-CSRFToken
 X-Correlation-ID
 X-Csrf-Token
+X-XSRF-TOKEN
 X-Do-Not-Track
 X-Forwarded-For
 X-Forwarded-Host
